@@ -1,0 +1,14 @@
+layout_spectrum: 0.857112132711336
+typography_spectrum: 0.5617430191487074
+color:
+  brandStrength: 0.35500943125225604
+  lightness: 0.7275174234528095
+  saturation: 0.0767275202088058
+  rhythmicContrast: 0.48324208823032677
+  brandColors:
+    - '#0C0C0C'
+    - '#442824'
+    - '#A78D8E'
+    - '#DBECF3'
+    - '#E8CEAB'
+name: oeno
